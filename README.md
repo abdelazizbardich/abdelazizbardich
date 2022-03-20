@@ -1,8 +1,5 @@
 <center>
 <h1 align='center'> Hi there 👋, I'm Abdelaziz Bardich 👨‍💻</h1>
-
-<p id="date"></p>
-
 <p align='center'>
   ✅✅ I live 🏠 in <b>Marrakch, Morocco📍</b>  and studies at <b><a href="https://youcode.ma">YouCode School 🏫</a></b> as a <b>Full Stack Developer <a href="https://www.client-server.com/job/full-stack-developer-java-angular/">Java Angular</a><b> ✅✅
   <hr width="50%">
@@ -64,11 +61,3 @@
 </p>
 
 </center>
-
-<script>
-    n =  new Date();
-y = n.getFullYear();
-m = n.getMonth() + 1;
-d = n.getDate();
-document.getElementById("date").innerHTML = m + "/" + d + "/" + y;
-</script>
