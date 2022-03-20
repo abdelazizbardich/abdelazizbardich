@@ -1,11 +1,11 @@
-<center>
+<center align='center'>
 <h1 align='center'> Hi there 👋, I'm Abdelaziz Bardich 👨‍💻</h1>
-<h1 style="border:none;"><b>🚨Most of my repositories are <span style="color:red";>private🚨</span></b></h1>
-  <hr width="50%">
+<h1 style="border:none;" align='center'><b>🚨Most of my repositories are <span style="color:red";>private🚨</span></b></h1>
+
 <p align='center'>
   ✅✅ I live 🏠 in <b>Marrakch, Morocco📍</b>  and studies at <b><a href="https://youcode.ma">YouCode School 🏫</a></b> as a <b>Full Stack Developer <a href="https://www.client-server.com/job/full-stack-developer-java-angular/">Java Angular</a><b> ✅✅
-  <hr width="50%">
-  <h4>📇📇 Contact me 📇📇</h4>
+
+  <h4 align='center'>📇📇 Contact me 📇📇</h4>
 </p>
 <p align="center">
     <a href="https://github.com/abdelazizbardich"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github"></a>
@@ -16,9 +16,9 @@
 </p>
 <hr>
 
-<h4><b>🔭  I’m currently working with ... 💻</b></h4><br>
+<h4 align='center'><b>🔭  I’m currently working with ... 💻</b></h4><br>
 
-<p >
+<p align='center'>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -35,8 +35,8 @@
 
 <hr>
 
-<h4><b>🌱  I'm currently learning...👨‍🏫</b></h4><br>
-<p >
+<h4 align='center'><b>🌱  I'm currently learning...👨‍🏫</b></h4><br>
+<p align='center'>
   <img src="https://img.shields.io/badge/java-5382a1?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/angular-b9002d?&style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/jenkins-d43530?&style=for-the-badge&logo=jenkins&logoColor=white" />
