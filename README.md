@@ -11,8 +11,10 @@
     <a href="https://github.com/abdelazizbardich"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github"></a>
     <a href="https://www.linkedin.com/in/abdelazizbardich/"><img src="https://img.shields.io/badge/-linkedin-darkblue?style=for-the-badge&logo=linkedin"></a>
     <a href="https://instagram.com/abdelazizbardich"><img src="https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://www.facebook.com/abdelazizbardich"><img src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a><br/>
+    <a href="https://www.facebook.com/abdelazizbardich"><img src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
+    <a href="tel:+212603768705"><img src="https://img.shields.io/badge/+212603768705-black?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a href="https://abdelazizbardich.com"><img src="https://img.shields.io/badge/🌐-abdelazizbardich.com-green?style=for-the-badge"></a>
+    <a href="mailto:abdelazizbardich@gmail.com"><img src="https://img.shields.io/badge/abdelazizbardich@gmail.com-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <hr>
 
