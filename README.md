@@ -1,21 +1,23 @@
 <center>
-<h1 align='center'> Hi there 👋, I'm Abdelaziz Bardich  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Abdelaziz Bardich 👨‍💻</h1>
+
+<p id="date"></p>
 
 <p align='center'>
-  I live in Marrakch, Morocco and studies at <b><a href="https://youcode.ma">YouCode School</a></b> as a Full Stack Developer <a href="https://www.client-server.com/job/full-stack-developer-java-angular/">Java Angular</a>
+  ✅✅ I live 🏠 in <b>Marrakch, Morocco📍</b>  and studies at <b><a href="https://youcode.ma">YouCode School 🏫</a></b> as a <b>Full Stack Developer <a href="https://www.client-server.com/job/full-stack-developer-java-angular/">Java Angular</a><b> ✅✅
   <hr width="50%">
-  <center align="center"><b>Contact me:</b></center>   
+  <center align="center"><b>📇📇Contact me 📇📇</b></center>   
 </p>
 <p align="center">
     <a href="https://github.com/abdelazizbardich"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github"></a>
     <a href="https://www.linkedin.com/in/abdelazizbardich/"><img src="https://img.shields.io/badge/-linkedin-darkblue?style=for-the-badge&logo=linkedin"></a>
     <a href="https://instagram.com/abdelazizbardich"><img src="https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.facebook.com/abdelazizbardich"><img src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a><br/>
-    <a href="https://abdelazizbardich.com"><img src="https://img.shields.io/badge/My portfolio:-abdelazizbardich.com-green"></a>
+    <a href="https://abdelazizbardich.com"><img src="https://img.shields.io/badge/🌐-abdelazizbardich.com-green?style=for-the-badge"></a>
 </p>
 <hr>
 
-<h4>🔭  I’m currently working with ...</h4>
+<h4>🔭  I’m currently working with ... 💻</h4>
 
 <p >
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,7 +36,7 @@
 
 <hr>
 
-<h4>🌱  I'm currently learning...</h4>
+<h4>🌱  I'm currently learning...👨‍🏫</h4>
 <p >
   <img src="https://img.shields.io/badge/java-5382a1?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/angular-b9002d?&style=for-the-badge&logo=angular&logoColor=white" />
@@ -49,13 +51,24 @@
 
 <br>
 <p align="right">
-  <a href="#">
+  <a href="https://www.spotify.com">
     <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
+  <a href="https://www.epicgames.com/site/en-US/home">
+    <img src="https://img.shields.io/badge/epicgames-%23000000.svg?&style=for-the-badge&logo=epicgames&logoColor=white" />
   </a>
-  <h5 align="right">🎮 To have fun and spend time...</h5>
+  <a href="https://www.riotgames.com/en">
+    <img src="https://img.shields.io/badge/riotgames-darkred?&style=for-the-badge&logo=riotgames&logoColor=white" />
+  </a>
+  <h5 align="right">🎮 To have fun and spend time...😊😊😊</h5>
 </p>
 
 </center>
+
+<script>
+    n =  new Date();
+y = n.getFullYear();
+m = n.getMonth() + 1;
+d = n.getDate();
+document.getElementById("date").innerHTML = m + "/" + d + "/" + y;
+</script>
