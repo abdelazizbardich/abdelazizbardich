@@ -32,13 +32,6 @@
   <img src="https://img.shields.io/badge/vuejs-17bf63?style=for-the-badge&logo=vuejs&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-3E6E93?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-</p>
-
-<hr>
-
-<h4 align='center'><b>🌱  I'm currently learning...👨‍🏫</b></h4><br>
-<p align='center'>
   <img src="https://img.shields.io/badge/java-5382a1?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/angular-b9002d?&style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/jenkins-d43530?&style=for-the-badge&logo=jenkins&logoColor=white" />
