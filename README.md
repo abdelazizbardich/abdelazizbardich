@@ -3,7 +3,7 @@
 <h1 style="border:none;" align='center'><b>🚨Most of my repositories are <span style="color:red";>private🚨</span></b></h1>
 
 <p align='center'>
-  ✅✅ I live 🏠 in <b>Rabat, Morocco📍</b>  and studies at <b><a href="https://youcode.ma">YouCode School 🏫</a></b> as a <b>Full Stack Developer <a href="https://www.client-server.com/job/full-stack-developer-java-angular/">Java Angular</a><b> ✅✅
+  ✅✅ I live 🏠 in <b>Rabat, Morocco📍</b>  and works at <b><a href="https://www.cegedim.com/Pages/default.aspx">Cegedim Maroc 🏫</a></b> as a <b>Full Stack Developer <a href="https://www.client-server.com/job/full-stack-developer-java-angular/">Java Angular</a><b> ✅✅
 
   <h4 align='center'>📇📇 Contact me 📇📇</h4>
 </p>
